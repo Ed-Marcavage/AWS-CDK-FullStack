@@ -23,6 +23,8 @@
     "typescript": "~3.9.7"
   },
   "dependencies": {
+    "@aws-cdk/aws-apigatewayv2-alpha": "^2.46.0-alpha.0",
+    "@aws-cdk/aws-apigatewayv2-integrations-alpha": "^2.46.0-alpha.0",
     "@aws-sdk/client-dynamodb": "^3.188.0",
     "aws-cdk-lib": "2.45.0",
     "constructs": "^10.0.0",
